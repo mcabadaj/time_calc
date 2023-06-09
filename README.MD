@@ -21,7 +21,7 @@ When less than 2 digits are entered, it will be parsed to full hours.
 
 The output is formatted as follows:
 
-`[start time] - ([time since start]) - [current time] - ([time until end]) - [end time]`
+`[start time] - ([time since start]) - [current time] - ([time until end]) - [end time]`  
 `Total: [total time from start to end]`
 
 ```
